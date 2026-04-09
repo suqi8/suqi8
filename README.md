@@ -41,12 +41,6 @@
 
 <!--   green snake -->
 ![suqi8's github activity graph](https://raw.githubusercontent.com/suqi8/suqi8/output/github-contribution-grid-snake.svg)
-<!--   stats + languages -->
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![suqi8's github stats](https://github-readme-stats.vercel.app/api?username=suqi8&show_icons=true&theme=radical&include_all_commits=true) | ![suqi8's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suqi8&theme=radical&layout=compact) |
-
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=suqi8"></img>
 
 <!-- dark snake -->
@@ -58,20 +52,11 @@
 <!--   grid-snake ![](https://github.com/suqi8/suqi8/blob/output/github-contribution-grid-snake.svg) -->
 
 
-<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=suqi8" width="auto"></img>
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=suqi8&show-other-skills=true" width="auto"></img>
 
 **📫 联系方式：**
 <p align="left">
 <a href="mailto:yogurt3383@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/suqi8/suqi8/master/assets/gmail.svg" alt="邮箱" height="30" width="30" /></a>
-</p>
-
-<div align="center">
-<summary>奖杯：GitHub 主页奖杯</summary>
-</div>
-
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suqi8" alt="suqi8" /></a>
 </p>
 
 
@@ -148,7 +133,7 @@ width="30%">
 #### 感谢访问 :heart:
 
 <p align="center"> 
-<img src="https://profile-counter.glitch.me/suqi8/count.svg">
+<img src="https://komarev.com/ghpvc/?username=suqi8&label=访问量&color=0e75b6&style=flat">
 
 此处访客计数自 2022 年 5 月 8 日开始统计
 <a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="访客旗帜统计" border="0"></a>
