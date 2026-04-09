@@ -3,16 +3,16 @@
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/suqi8/suqi8"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
+    <a href="https://github.com/suqi8/OShin"><img src="https://img.shields.io/badge/Focus-Android%20%26%20HyperOS-3DDC84.svg?logo=android&logoColor=white"></a>
     <a href="https://github.com/suqi8/suqi8/graphs/contributors"><img src="https://img.shields.io/github/contributors/suqi8/suqi8?color=blue"></a>
     <a href="https://github.com/suqi8/suqi8/stargazers"><img src="https://img.shields.io/github/stars/suqi8/suqi8.svg?logo=github"></a>
     <a href="https://github.com/suqi8/suqi8/network/members"><img src="https://img.shields.io/github/forks/suqi8/suqi8.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=suqi8.suqi8" alt="visitors"/>   
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=suqi8.suqi8" alt="访客数"/>
 </p>
 
 <!--   my-header-img -->
 ![](./src/header_.png)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+<a href="https://github.com/suqi8/OShin"><img src="https://img.shields.io/badge/OShin-ColorOS%20Module-FF6A00?style=flat&logo=android&logoColor=white" align="right"></a>
 
 
 <!--   my-ticker -->    
@@ -60,69 +60,29 @@
 </p>
 
 
+### 🧩 技术生态
 
+- Android / HyperOS / ColorOS 模块开发
+- Compose Multiplatform 与跨平台工具
+- KernelSU / LSPosed / YukiHookAPI 相关生态
+- ROM 定制、镜像处理与设备工具链
 
-   <!--machine-learning-->
-```mermaid
-graph TD;
-    machine-learning-->数据;
-    machine-learning-->算法;
-    machine-learning-->统计模型;
-    machine-learning-->特征工程;
-    machine-learning-->评估指标;
-    machine-learning-->部署;
-   ```
-   
- 
+### 🏅 Hackerrank
 
-
-<div align="center">
-<summary>奖杯：Hackerrank 主页奖杯</summary>
-</div>
-
-<p align="center"> 
-
-<img src="./src/badges_hackerrank.png" alt="统计图" width="57%"> <img src="./src/hackerrank-logo.jpg" alt="统计图" 
-width="30%">
-
+<p align="center">
+<img src="./src/badges_hackerrank.png" alt="Hackerrank 徽章" width="57%"> <img src="./src/hackerrank-logo.jpg" alt="Hackerrank 标志" width="30%">
 </p>
 
+### 📊 综合统计
 
-
-<img src="/github-metrics.svg" alt="统计图" width="100%">
-
-
-
+<img src="/github-metrics.svg" alt="GitHub 综合统计图" width="100%">
 
 
 
-<!-- 我的家园 -->
-  
- ```geojson
-{
- "type": "FeatureCollection",
- "features": [
-   {
-     "type": "Feature",
-     "id": 1,
-     "properties": {
-       "ID": 0
-     },
-     "geometry": {
-       "type": "Polygon",
-       "coordinates": [
-         [
-             [23.5,53.9],
-             [32.6,52.6]
-         ]
-       ]
-     }
-   }
- ]
-}
 
-```
 
+
+### 🧭 项目足迹
 
 ![badges_37-46.png](src/badges_37-46.png)
 ![badges_25-36.png](src/badges_25-36.png)
@@ -130,19 +90,15 @@ width="30%">
 ![badges_1-12.png](src/badges_1-12.png)
 
 
-#### 感谢访问 :heart:
+### 👀 访问统计
 
-<p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=suqi8&label=访问量&color=0e75b6&style=flat">
-
-此处访客计数自 2022 年 5 月 8 日开始统计
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=suqi8&label=访问量&color=0e75b6&style=flat" alt="访问量统计">
 <a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="访客旗帜统计" border="0"></a>
+</p>
 
-
-## Star 历史
+### ⭐ Star 历史
 
 [![Star 历史图](https://api.star-history.com/svg?repos=suqi8/suqi8&type=Date)](https://star-history.com/#suqi8/suqi8&Date)
-
-
 
 ![](assets/Bottom_down.svg)
